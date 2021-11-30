@@ -1,4 +1,4 @@
-# Single page Real Estate App Using React js
+# Single Page Real Estate App Using React js
 ## Goal
 Training Styled-Components, useStates and components in this app.
 ## The link to open project
